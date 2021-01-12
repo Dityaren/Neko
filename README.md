@@ -71,4 +71,4 @@ Get the app from our [releases page](https://github.com/CarlosEsco/Neko/releases
 
 ## Disclaimer
 
-The developer of this application does not have any affiliation with the content providers available.
+The developer of this application does not have any affiliation with the content providers available
